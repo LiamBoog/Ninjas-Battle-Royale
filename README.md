@@ -1,2 +1,2 @@
 # Ninjas-Battle-Royale
-Prototype of a battle-royal platformer made in 2020
+Prototype of a battle-royale platformer made in 2020
